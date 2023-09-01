@@ -29,9 +29,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/324244ae5519924638dad9bac9d58945.png" height="80%" width="80%" alt="Add New Role"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For this instance, we will create the role "Supreme Admin". Go into the Admin Panel -> Agents -> Roles -> Add New Role. In Permissions, we will enable everything. Do the same for the "Tickets" and "Knowledge Base" tabs. 
+  
 </p>
 <br />
+<p>
+<img src="https://i.gyazo.com/93e746965e8bf9fcb44cc000c43cafd5.png" height="80%" width="80%" alt="Add New Role"/>
+</p>
+<p>
+
+Next, we go back to the Admin Panel -> Agents -> Departments -> Add New Department and will add "System Administrators". Default values are fine in this instance. 
+
+
+</p>
+<br />
+
