@@ -37,7 +37,7 @@ For this instance, we will create the role "Supreme Admin". Go into the Admin Pa
 </p>
 <br />
 <p>
-<img src="https://i.gyazo.com/93e746965e8bf9fcb44cc000c43cafd5.png" height="80%" width="80%" alt="Add New Role"/>
+<img src="https://i.gyazo.com/93e746965e8bf9fcb44cc000c43cafd5.png" height="80%" width="80%" alt="Add New Department"/>
 </p>
 <p>
 
@@ -46,4 +46,17 @@ Next, we go back to the Admin Panel -> Agents -> Departments -> Add New Departme
 
 </p>
 <br />
+
+<p>
+<img src="https://i.gyazo.com/bd7792055bfa01e4dc41523a3e46900e.png" height="80%" width="80%" alt="Create a team"/>
+</p>
+<p>
+
+Now go to Agents -> Teams -> Create a team. We will create Level I and Level II support. 
+
+
+</p>
+<br />
+
+
 
